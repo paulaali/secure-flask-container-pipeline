@@ -10,7 +10,7 @@ Flask app -> Docker image -> Docker Hub -> GitHub Actions -> Trivy scan -> Smoke
 
 ---
 
-## Lab Snapshot
+## Project Snapshot
 
 | Area | What This Project Covers |
 |---|---|
@@ -465,4 +465,3 @@ docker rmi my-web-app your-dockerhub-username/my-web-app:v1.0.0-yourname nginx:a
 ## License
 
 This project is for learning and practice. Use, fork, and improve it freely.
-
